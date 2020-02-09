@@ -1,0 +1,12 @@
+ul.writers li{
+	background:purple;
+	margin: 3px;
+	color: white;
+}
+
+
+ul.disciplines li{
+	background:yellow;
+	margin: 3px;
+	color: green;
+}
